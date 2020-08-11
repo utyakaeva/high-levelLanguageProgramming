@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLibrarian xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Librarian>
+    <Id>1</Id>
+    <FullName>Иванов Иван Иванович</FullName>
+  </Librarian>
+  <Librarian>
+    <Id>2</Id>
+    <FullName>Петр Сидоров Бабаевич</FullName>
+  </Librarian>
+</ArrayOfLibrarian>

@@ -1,0 +1,26 @@
+H:\LibraryApp6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+H:\LibraryApp6\WindowsFormsApplication6\bin\Debug\books.xml
+H:\LibraryApp6\WindowsFormsApplication6\bin\Debug\librarians.xml
+H:\LibraryApp6\WindowsFormsApplication6\bin\Debug\lll.xml
+H:\LibraryApp6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+H:\LibraryApp6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.FormBook.resources
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.FormLibrarian.resources
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.FormOptions.resources
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.FormAbout.resources
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.FormReader.resources
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+H:\LibraryApp6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+H:\LibraryApp15-16\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+H:\LibraryApp15-16\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+H:\LibraryApp15-16\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Пользователь\Desktop\LibraryApp15-16\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Пользователь\Desktop\LibraryApp15-16\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Пользователь\Desktop\LibraryApp15-16\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp15-16\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp15-16\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp15-16\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb

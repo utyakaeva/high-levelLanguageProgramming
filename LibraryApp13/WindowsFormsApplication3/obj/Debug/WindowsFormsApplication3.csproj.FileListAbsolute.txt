@@ -1,0 +1,39 @@
+H:\LibraryApp3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+H:\LibraryApp3\WindowsFormsApplication3\bin\Debug\journals.txt
+H:\LibraryApp3\WindowsFormsApplication3\bin\Debug\books.txt
+H:\LibraryApp3\WindowsFormsApplication3\bin\Debug\librarians.txt
+H:\LibraryApp3\WindowsFormsApplication3\bin\Debug\lll.txt
+H:\LibraryApp3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+H:\LibraryApp3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormLibrarian.resources
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormReader.resources
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormBook.resources
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormOptions.resources
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormAbout.resources
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+H:\LibraryApp3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+H:\LibraryApp13\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+H:\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+H:\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\bin\Debug\journals.txt
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\bin\Debug\books.txt
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\bin\Debug\librarians.txt
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\bin\Debug\lll.txt
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormLibrarian.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormReader.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormBook.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormOptions.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormAbout.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\LibraryApp13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

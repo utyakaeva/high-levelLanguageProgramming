@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <IndividualNumber>1</IndividualNumber>
+    <nomer>1</nomer>
+    <Pages>346</Pages>
+    <Author>Абрамович Пунсыгма Эрденеевна</Author>
+    <Year>1984</Year>
+    <Name>"Капуста"</Name>
+    <ISBN>388053101-3</ISBN>
+    <Issuer>Изательство "Махаон"</Issuer>
+  </Book>
+  <Book>
+    <IndividualNumber>2</IndividualNumber>
+    <nomer>1</nomer>
+    <Pages>500</Pages>
+    <Author>Торопыжкина Февронья Евкакьевна</Author>
+    <Year>2003</Year>
+    <Name>"Морковь"</Name>
+    <ISBN>978-0-9557163-0-0</ISBN>
+    <Issuer>Издательство "КноРус"</Issuer>
+  </Book>
+  <Book>
+    <IndividualNumber>3</IndividualNumber>
+    <nomer>1</nomer>
+    <Pages>265</Pages>
+    <Author>Базякина Жаргалма Пурбоевна</Author>
+    <Year>2000</Year>
+    <Name>"Сельдерей"</Name>
+    <ISBN>978-1-234-56789-7</ISBN>
+    <Issuer>Издательство "Терра"</Issuer>
+  </Book>
+  <Book>
+    <IndividualNumber>4</IndividualNumber>
+    <nomer>1</nomer>
+    <Pages>321</Pages>
+    <Author>Леонтьева Авдосья Дмитриевна</Author>
+    <Year>2017</Year>
+    <Name>"Помидор"</Name>
+    <ISBN>0-901690-54-6</ISBN>
+    <Issuer>Издательство "Фламинго"</Issuer>
+  </Book>
+  <Book>
+    <IndividualNumber>5</IndividualNumber>
+    <nomer>1</nomer>
+    <Pages>290</Pages>
+    <Author>Попова Ефросинья Владимировна</Author>
+    <Year>2017</Year>
+    <Name>"Огурец"</Name>
+    <ISBN>978-1-934293-06-5</ISBN>
+    <Issuer>Издательство "Стрекоза-Пресс"</Issuer>
+  </Book>
+  <Book>
+    <IndividualNumber>6</IndividualNumber>
+    <nomer>1</nomer>
+    <Pages>347</Pages>
+    <Author>Шамаева Прасковья Григорьевна</Author>
+    <Year>2017</Year>
+    <Name>"Петрушка"</Name>
+    <ISBN>0-123456-47-9</ISBN>
+    <Issuer>Издательство "Гимея"</Issuer>
+  </Book>
+  <Book>
+    <IndividualNumber>7</IndividualNumber>
+    <nomer>1</nomer>
+    <Pages>367</Pages>
+    <Author>Тарасенко Фёкла Евгеньевна</Author>
+    <Year>2017</Year>
+    <Name>"Тыква"</Name>
+    <ISBN>978-0-07-575212-7</ISBN>
+    <Issuer>Издательство "Импэто"</Issuer>
+  </Book>
+  <Book>
+    <IndividualNumber>8</IndividualNumber>
+    <nomer>0</nomer>
+    <Pages>143</Pages>
+    <Author>Михаил Подорожанский</Author>
+    <Year>2012</Year>
+    <Name>"Авторевю"</Name>
+    <ISBN>4607154880029</ISBN>
+    <Issuer>Издательство "Авторевю"</Issuer>
+  </Book>
+  <Book>
+    <IndividualNumber>9</IndividualNumber>
+    <nomer>0</nomer>
+    <Pages>277</Pages>
+    <Author>Лазарев И.А.</Author>
+    <Year>2001</Year>
+    <Name>Наша фантастика. Альманах</Name>
+    <ISBN>№ 3</ISBN>
+    <Issuer>978-5-227-01439-9</Issuer>
+  </Book>
+  <Book>
+    <IndividualNumber>10</IndividualNumber>
+    <nomer>0</nomer>
+    <Pages>67</Pages>
+    <Author>Базякина Жаргалма Пурбоевна</Author>
+    <Year>2015</Year>
+    <Name>История и современность. № 1</Name>
+    <ISBN>9772412686998</ISBN>
+    <Issuer>Учитель</Issuer>
+  </Book>
+</ArrayOfBook>

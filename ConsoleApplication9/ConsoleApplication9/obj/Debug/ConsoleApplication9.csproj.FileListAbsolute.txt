@@ -1,0 +1,21 @@
+c:\users\пользователь\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\пользователь\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\пользователь\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\пользователь\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\пользователь\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+D:\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+D:\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+D:\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+D:\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+D:\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+D:\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+F:\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+F:\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+F:\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+F:\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+F:\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+F:\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+E:\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+E:\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+E:\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

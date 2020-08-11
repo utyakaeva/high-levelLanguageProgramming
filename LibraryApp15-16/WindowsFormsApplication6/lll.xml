@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfReader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reader>
+    <Id>1</Id>
+    <FullName>Иванов Иван Иванович</FullName>
+  </Reader>
+  <Reader>
+    <Id>2</Id>
+    <FullName>Петров Петр Петрович</FullName>
+  </Reader>
+  <Reader>
+    <Id>3</Id>
+    <FullName>Сидоров Сидр Сидорович</FullName>
+  </Reader>
+  <Reader>
+    <Id>4</Id>
+    <FullName>Тимошенок Тимофей Тимофеевич</FullName>
+  </Reader>
+  <Reader>
+    <Id>5</Id>
+    <FullName>Иванчюк Алена Егоровна</FullName>
+  </Reader>
+  <Reader>
+    <Id>6</Id>
+    <FullName>Анафон Анна Петровна</FullName>
+  </Reader>
+  <Reader>
+    <Id>7</Id>
+    <FullName>Касаткина Инна Евгеньевна</FullName>
+  </Reader>
+</ArrayOfReader>
